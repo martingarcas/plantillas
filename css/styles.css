@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    font-size: 14px;
+}
+
+.imagen-estilo {
+    max-width: 300px; /* Ajusta el ancho máximo */
+    height: auto;     /* Mantiene la proporción */
+    border: 2px solid #ccc; /* Añade un borde */
+    border-radius: 8px; /* Bordes redondeados */
+    margin: 20px 0; /* Espaciado alrededor de la imagen */
+}
